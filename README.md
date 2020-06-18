@@ -1,4 +1,4 @@
-# global_temperature
+# Forecasting global_temperature 
 This project is focused on Predicting the global temperature across the world by machine learning- Random Forest and XGboost models
 and Forecasting the temperature across the cities using RNN-LSTM models.
 
